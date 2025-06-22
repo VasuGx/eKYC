@@ -1,0 +1,18 @@
+[2025-06-21 15:36:16,701: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 15:37:06,348: WARNING: module_wrapper]: From D:\Projects\EKYC\ekyc\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-06-21 15:40:39,738: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 15:41:35,176: WARNING: module_wrapper]: From D:\Projects\EKYC\ekyc\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-21 15:46:32,919: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 15:46:40,462: WARNING: module_wrapper]: From D:\Projects\EKYC\ekyc\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-21 15:46:40,955: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 18:53:05,753: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 18:53:51,866: WARNING: module_wrapper]: From D:\Projects\EKYC\ekyc\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-21 18:53:52,525: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 18:58:07,828: INFO: myutils]: yaml  file: config.yaml loaded successfully
+[2025-06-21 18:58:15,440: WARNING: module_wrapper]: From D:\Projects\EKYC\ekyc\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-21 18:58:15,965: INFO: myutils]: yaml  file: config.yaml loaded successfully
