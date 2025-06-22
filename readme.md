@@ -19,27 +19,24 @@ An end-to-end **electronic Know Your Customer (eKYC)** system built with **Strea
 - 📊 **Duplicate Checking**
 - 🪵 **Detailed Logging**
 
----
-
 ## 📂 Project Structure
-'''
-ekyc/
-├── app.py # Streamlit app entry point
-├── face_verification.py # Face detection and comparison logic
-├── preprocess.py # Image reading and ID card region extraction
-├── ocr_engine.py # EasyOCR integration for PAN text
-├── postprocess.py # Parses text to structured info
-├── mysqldb_operations.py # MySQL operations: insert, fetch, check
-├── myutils.py # Utilities: YAML, file checks
-├── config.yaml # Configuration paths
-├── logs/ # Runtime logs
-├── data/
-│ ├── 01_raw_data/ # Raw ID and face images
-│ ├── 02_intermediate_data/ # Processed face crops
-└── README.md # You’re here!
 
-'''
----
+```
+ekyc/
+├── app.py                  # Streamlit app entry point 
+├── face_verification.py    # Face detection and comparison logic
+├── preprocess.py           # Image reading and ID card region extraction
+├── ocr_engine.py           # EasyOCR integration for PAN text
+├── postprocess.py          # Parses text to structured info
+├── mysqldb_operations.py   # MySQL operations: insert, fetch, check
+├── myutils.py              # Utilities: YAML, file checks
+├── config.yaml             # Configuration paths
+├── logs/                   # Runtime logs
+├── data/
+│   ├── 01_raw_data/        # Raw ID and face images
+│   └── 02_intermediate_data/ # Processed face crops
+└── README.md               # Project documentation
+```
 
 ## 📷 How It Works
 
