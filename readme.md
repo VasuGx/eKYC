@@ -22,7 +22,7 @@ An end-to-end **electronic Know Your Customer (eKYC)** system built with **Strea
 ---
 
 ## 📂 Project Structure
-
+'''
 ekyc/
 ├── app.py # Streamlit app entry point
 ├── face_verification.py # Face detection and comparison logic
@@ -38,7 +38,7 @@ ekyc/
 │ ├── 02_intermediate_data/ # Processed face crops
 └── README.md # You’re here!
 
-
+'''
 ---
 
 ## 📷 How It Works
